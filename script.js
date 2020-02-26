@@ -1,7 +1,5 @@
 
 
-
-
     $("#jokeCall").click(function() {
         getJoke();
     });
